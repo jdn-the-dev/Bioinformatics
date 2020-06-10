@@ -1,4 +1,4 @@
-Try it with this: this script will check the coordinates of a sorted file.
+#Try it with this: this script will check the coordinates of a sorted file.
 ############## rangeCheck.py ###############
 y_66 = []
 concat = []
